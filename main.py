@@ -63,8 +63,14 @@ def main():
     with open("./output/request_response.csv", "w", encoding="utf-8") as file:
         file.write(csv_content)
         
+    df = pd.read_csv("./output/request_response.csv", sep=";")
+    df = df.astype(str)
+    df.to_excel('./output/data_values.xlsx', index=False)
+        
     #Envia para o sheets 
-    send_to_sheets()
+    send_to_sheets(df)
+    
+    print("Atualização concluída com sucesso")
     
 if __name__ == "__main__":
     main()
