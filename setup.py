@@ -10,7 +10,7 @@ xpath_email_input = "//*[@id='xemail']"
 xpath_password_input = "//*[@id='xsenha']"
 xpath_login_button = "//*[@id='formLogin']/div[3]/div[2]/button"
 xpath_exit_ad_button = '//*[@id="radix-0"]/div[1]/button'
-xpath_remuneracoes_button = "/html/body/div[1]/div/div/div/div/div/div/div[2]/div[1]/div[1]/div/ul[2]/div[4]"
+xpath_remuneracoes_button = '//*[@id="root"]/div/div/div/div/div/div/div[2]/div[1]/div[1]/div/ul[2]/div[4]'
 xpath_data_button = "/html/body/div[1]/div/div/main/div[2]/div/div[1]/div/div/div[2]/div/div[3]/div"
 xpath_pesonalizar_data_button = "/html/body/div[4]/div[3]/li[4]"
 xpath_date_since_input = "/html/body/div[1]/div[2]/div/div[3]/div/div[2]/form/div/div[1]/div/div/input"

@@ -17,8 +17,8 @@ def main():
     input_text(xpath_password_input, login_password)
     click_button(xpath_login_button)
 
-    wait_until_find(xpath_exit_ad_button)
-    click_button(xpath_exit_ad_button)
+    # wait_until_find(xpath_exit_ad_button)
+    # click_button(xpath_exit_ad_button)
 
     wait_until_find(xpath_remuneracoes_button)
     click_button(xpath_remuneracoes_button)

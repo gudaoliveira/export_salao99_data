@@ -1,4 +1,44 @@
 Data Venda;Cliente;Tipo;Descrição;Valor Base (R$);Remuneração (R$);Pagamento Pendente (R$);Valor Pago (R$)
+05/07/2024;Mariane Galvão;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+04/07/2024;Débora Gaia;Comissão;Microblading Fio A Fio;410,00;287,00;287,00;0,00
+04/07/2024;Silvana Nunes;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;390,00;273,00;273,00;0,00
+04/07/2024;Lu Viana;Comissão;Design Feminino;25,00;17,50;17,50;0,00
+03/07/2024;Vanderleia;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;65,00;45,50;45,50;0,00
+03/07/2024;Solange Valentim;Comissão;Microblading Fio A Fio;230,00;161,00;161,00;0,00
+02/07/2024;Ana Carolina de Oliveira;Comissão;Microblading Fio A Fio;200,00;140,00;140,00;0,00
+02/07/2024;Natasha Rodrigues;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;160,00;112,00;112,00;0,00
+02/07/2024;Natalia Biscuola;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;160,00;112,00;112,00;0,00
+29/06/2024;Débora Gaia;Comissão;Microblading Fio A Fio;250,00;175,00;175,00;0,00
+28/06/2024;Jessica Arine Martins;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;65,00;45,50;45,50;0,00
+28/06/2024;Ana Carolina de Oliveira;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;30,00;21,00;21,00;0,00
+27/06/2024;Rosana Mariano;Comissão;Design Com Henna;40,00;28,00;28,00;0,00
+27/06/2024;Stephanie Fonseca Luques;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+26/06/2024;Thais Machado Mano;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;100,00;70,00;70,00;0,00
+26/06/2024;Juliana Maciel Batista;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+26/06/2024;Ellen Eduarda da Silva;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;40,00;28,00;28,00;0,00
+25/06/2024;Lorena Ramos;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+22/06/2024;Maria Eduarda Machado;Comissão;VOLUME EGÍPCIO;140,00;98,00;98,00;0,00
+22/06/2024;Solange Valentim;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+22/06/2024;Letícia Dias da Silva;Comissão;Depilação Buço na Linha;15,00;10,50;10,50;0,00
+22/06/2024;Letícia Dias da Silva;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+21/06/2024;Ana Claudia Rosa;Comissão;CÍLIOS FIO A FIO;120,00;84,00;84,00;0,00
+21/06/2024;Stephanie Fonseca Luques;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+20/06/2024;Julia Dall Collina Santinelli;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;30,00;21,00;21,00;0,00
+20/06/2024;Silvana Nunes;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+20/06/2024;Sandra Trindade;Comissão;Design Com Henna;35,00;24,50;24,50;0,00
+19/06/2024;Mariane Galvão;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+19/06/2024;Daniela Costa Lima;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+19/06/2024;Daniela Costa Lima;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+17/06/2024;Matilde Gonçalves;Comissão;REMOÇÃO DE CÍLIOS;30,00;21,00;21,00;0,00
+15/06/2024;Natasha Rodrigues;Comissão;VOLUME BRASILEIRO;130,00;91,00;91,00;0,00
+14/06/2024;Larissa Caroline;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;30,00;21,00;21,00;0,00
+14/06/2024;Cleide Cristina Lopes dos Reis;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+14/06/2024;Cleide Cristina Lopes dos Reis;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+14/06/2024;Márcia Olindina;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+13/06/2024;Ingrid Helena;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;160,00;112,00;112,00;0,00
+13/06/2024;Jessica Arine Martins;Comissão;Design Com Henna;35,00;24,50;24,50;0,00
+13/06/2024;Jessica Arine Martins;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;65,00;45,50;45,50;0,00
+13/06/2024;Mariana Parreiras Bouchardet;Comissão;Design Feminino;30,00;21,00;21,00;0,00
 12/06/2024;Stephanie Fonseca Luques;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
 12/06/2024;Gislaine;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;190,00;133,00;133,00;0,00
 12/06/2024;Ana Julia Primicia;Comissão;Design Feminino;30,00;21,00;21,00;0,00
@@ -98,7 +138,82 @@ Data Venda;Cliente;Tipo;Descrição;Valor Base (R$);Remuneração (R$);Pagamento
 03/05/2024;Jessica Arine Martins;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;65,00;45,50;45,50;0,00
 03/05/2024;Marcela Albuquerque;Comissão;Design Feminino;30,00;21,00;21,00;0,00
 02/05/2024;Giovanna da Silva Pereira Ramos;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+01/05/2024;Silvana Nunes;Comissão;MANUTENÇÂO FIO A FIO;50,00;35,00;35,00;0,00
+01/05/2024;Vanessa Oening;Comissão;VOLUME BRASILEIRO;100,00;70,00;70,00;0,00
+30/04/2024;Sabrina da Silva Pereira;Comissão;VOLUME BRASILEIRO;100,00;70,00;70,00;0,00
+30/04/2024;Bruna Caroline;Comissão;Design Feminino;120,00;84,00;84,00;0,00
+30/04/2024;Bruna Caroline;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;160,00;112,00;112,00;0,00
+30/04/2024;Sabrina da Silva Pereira;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;80,00;56,00;56,00;0,00
+30/04/2024;Mariely Gonçalves;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;160,00;112,00;112,00;0,00
+27/04/2024;Julia Dall Collina Santinelli;Comissão;VOLUME BRASILEIRO;90,00;63,00;63,00;0,00
+27/04/2024;Natalia Biscuola;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;160,00;112,00;112,00;0,00
+25/04/2024;Kathy Ramos;Comissão;Design Feminino;160,00;112,00;112,00;0,00
+25/04/2024;Leila;Comissão;Depilação Buço na Linha;15,00;10,50;10,50;0,00
+25/04/2024;Leila;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+25/04/2024;Ana Julia Primicia;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;65,00;45,50;45,50;0,00
+25/04/2024;Bruna Caroline;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+25/04/2024;Ellen Eduarda da Silva;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;60,00;42,00;42,00;0,00
+24/04/2024;Lorena Ramos;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+24/04/2024;Lorena Ramos;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+24/04/2024;Sandra Trindade;Comissão;Design Feminino;35,00;24,50;24,50;0,00
+24/04/2024;Julia Camille;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+24/04/2024;Julia Camille;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;65,00;45,50;45,50;0,00
+23/04/2024;Juliana Soares;Comissão;VOLUME BRASILEIRO;120,00;84,00;84,00;0,00
+23/04/2024;Márcia Olindina;Comissão;Retoque Sobrancelha;80,00;56,00;56,00;0,00
+23/04/2024;Natali Oliveira;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+23/04/2024;Mariana Parreiras Bouchardet;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+23/04/2024;Stephanie Fonseca Luques;Comissão;VOLUME BRASILEIRO;130,00;91,00;91,00;0,00
+23/04/2024;Stephanie Fonseca Luques;Comissão;REMOÇÃO DE CÍLIOS;30,00;21,00;21,00;0,00
+20/04/2024;Julia Soares;Comissão;Design Feminino;35,00;24,50;24,50;0,00
+20/04/2024;Julia Soares;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;60,00;42,00;42,00;0,00
+20/04/2024;Julia Bedran Martins;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;65,00;45,50;45,50;0,00
+20/04/2024;Miguel Godinho;Comissão;Design Masculino;35,00;24,50;24,50;0,00
+20/04/2024;Alessandra Aparecida Rodrigues Luciano;Comissão;MANUTENÇÂO FIO A FIO;60,00;42,00;42,00;0,00
+20/04/2024;Ana Carolina de Oliveira;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;85,00;59,50;59,50;0,00
+19/04/2024;Natasha Rodrigues;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+19/04/2024;Gabriela Camparini;Comissão;Design Feminino;25,00;17,50;17,50;0,00
+19/04/2024;Gabriela Camparini;Comissão;Design Com Henna;35,00;24,50;24,50;0,00
+19/04/2024;Vanderleia;Comissão;REMOÇÃO DE CÍLIOS;40,00;28,00;28,00;0,00
+19/04/2024;Rosana Mariano;Comissão;Design Com Henna;40,00;28,00;28,00;0,00
+18/04/2024;Ingrid Helena;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;60,00;42,00;42,00;0,00
+18/04/2024;Daniela Costa Lima;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+18/04/2024;Natalia Biscuola;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+17/04/2024;Thais Machado Mano;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+17/04/2024;Cleide Cristina Lopes dos Reis;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+17/04/2024;Cleide Cristina Lopes dos Reis;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+17/04/2024;Mariane Galvão;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;95,00;66,50;66,50;0,00
+16/04/2024;Letícia Dias da Silva;Comissão;Depilação Buço na Linha;15,00;10,50;10,50;0,00
+16/04/2024;Letícia Dias da Silva;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+16/04/2024;Silvana Nunes;Comissão;MANUTENÇÂO FIO A FIO;50,00;35,00;35,00;0,00
+16/04/2024;Mariely Gonçalves;Comissão;VOLUME BRASILEIRO;120,00;84,00;84,00;0,00
+13/04/2024;Lais Malandrim;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+13/04/2024;Ana Julia Primicia;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+13/04/2024;Ana Julia Primicia;Comissão;VOLUME EGÍPCIO;130,00;91,00;91,00;0,00
 13/04/2024;Gabriele Severino;Comissão;CACHOS;100,00;70,00;70,00;0,00
+12/04/2024;Sabrina da Silva Pereira;Comissão;VOLUME BRASILEIRO;169,55;118,69;118,69;0,00
+12/04/2024;Adriana Pereira;Comissão;Design Feminino;25,00;17,50;17,50;0,00
+11/04/2024;Jessica Arine Martins;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;65,00;45,50;45,50;0,00
+11/04/2024;Carol Martins;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+11/04/2024;Ellen Eduarda da Silva;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;60,00;42,00;42,00;0,00
+10/04/2024;Giovana Nunes;Comissão;Retoque Sobrancelha;80,00;56,00;56,00;0,00
+09/04/2024;Rosana Mariano;Comissão;Design Com Henna;40,00;28,00;28,00;0,00
+09/04/2024;Amanda Amiga Thaina;Comissão;Design Com Henna;40,00;28,00;28,00;0,00
+06/04/2024;Ingrid Helena;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;60,00;42,00;42,00;0,00
+06/04/2024;Ana Carolina de Oliveira;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;60,00;42,00;42,00;0,00
+06/04/2024;Solange Valentim;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+06/04/2024;Julia Bedran Martins;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;65,00;45,50;45,50;0,00
+06/04/2024;Alessandra Aparecida Rodrigues Luciano;Comissão;MANUTENÇÂO FIO A FIO;60,00;42,00;42,00;0,00
+05/04/2024;Julia Dall Collina Santinelli;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+05/04/2024;Julia Dall Collina Santinelli;Comissão;VOLUME BRASILEIRO;120,00;84,00;84,00;0,00
+05/04/2024;Ana Clara Santos Rosales;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+05/04/2024;Julia Camille;Comissão;MANUTENÇÃO VOLUME EGÍPCIO;65,00;45,50;45,50;0,00
+05/04/2024;Mariely Gonçalves;Comissão;CÍLIOS FIO A FIO;120,00;84,00;84,00;0,00
+04/04/2024;Marilene Maciel;Comissão;Retoque Sobrancelha;120,00;84,00;84,00;0,00
+04/04/2024;Geane;Comissão;Design Feminino;30,00;21,00;21,00;0,00
+04/04/2024;Natalia Biscuola;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;65,00;45,50;45,50;0,00
+04/04/2024;Bruna Caroline;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;95,00;66,50;66,50;0,00
+03/04/2024;Viviane Meixedo Barreto;Comissão;MANUTENÇÃO VOLUME BRASILEIRO;140,00;98,00;98,00;0,00
+03/04/2024;Ana Cláudia Ponciano;Comissão;Design Com Henna;40,00;28,00;28,00;0,00
 28/03/2024;Maria Clara;Comissão;Design Com Henna;40,00;28,00;28,00;0,00
 28/03/2024;Yara Mariano;Comissão;Design Feminino;30,00;21,00;21,00;0,00
 28/03/2024;Yara Mariano;Comissão;VOLUME BRASILEIRO;120,00;84,00;84,00;0,00
